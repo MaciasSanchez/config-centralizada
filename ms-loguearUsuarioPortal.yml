@@ -7,4 +7,4 @@ springdoc:
   packages-to-scan: com.righttek.ms.loguearusuarioportal.controller
 
 uri:
-  ConsultarUsuario: "http://localhost:8055"
+  ConsultarUsuario: "http://localhost:8076"
