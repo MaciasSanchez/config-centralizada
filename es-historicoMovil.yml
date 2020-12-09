@@ -1,8 +1,5 @@
 server:
   port: 8077
-springdoc:
-  packages-to-scan: com.righttek.es.historicoMovil.controller
-  pathsToMatch: /v1, /api/es/historicoMovil/**
 
 spring:
   datasource:
