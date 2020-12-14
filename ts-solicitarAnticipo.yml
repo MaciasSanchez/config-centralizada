@@ -1,0 +1,8 @@
+server:
+  port: 8201
+  
+# SERVICIOS A CONSUMIR
+uri:
+  empleado: "http://localhost:8072"
+  solicitudAnticipo: "http://localhost:8057"
+  valoresConfigurables: "http://localhost:8051"
